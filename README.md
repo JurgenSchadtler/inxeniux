@@ -1,8 +1,29 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Inxeniux Interview
 
-Currently, two official plugins are available:
+Este codigo forma parte del proceso de selección para Inxeniux.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Tecnologías Usadas
+
+- React JS
+
+- SupaBase
+
+- MySQL
+
+
+
+
+## Capturas de Pantalla
+
+![App Screenshot](https://i.gyazo.com/db6ffa95d0da46a6de487c321000b8f0.png)
+
+![App Screenshot](https://i.gyazo.com/62425c33072f20278d483661f1802d25.png)
+
+![App Screenshot](https://i.gyazo.com/ca80518585ecc9db22d49277dbf242b5.png)
+
+
+
