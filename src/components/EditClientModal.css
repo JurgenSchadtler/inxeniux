@@ -1,0 +1,28 @@
+.formInput {
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  border-radius: 2rem;
+  border-style: none;
+  background-color: aliceblue;
+  padding: 0.5rem 1rem;
+}
+
+.saveContainer{
+    text-align: center;
+}
+
+.saveEdit{
+    background-color: green;
+    border-radius: 1rem;
+    padding: .5rem 1rem;
+    border-style: none;
+    color: #fff;
+}
+
+.saveEdit:hover{
+    background-color: rgb(0, 203, 0);
+    border-radius: 1rem;
+    padding: .5rem 1rem;
+    border-style: none;
+    color: #fff;
+}
