@@ -321,7 +321,7 @@ const AddClientModal = ({ onClose, onClientAdded }) => {
         </label>
         <div className="saveContainer">
           <button type="submit" className="saveEdit">
-            Create Client
+            Crear Cliente
           </button>
         </div>
       </form>

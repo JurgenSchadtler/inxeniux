@@ -57,7 +57,7 @@ const EditClientModal = ({ show, onClose, clientData, onSave }) => {
   return (
     <Modal show={show} onHide={onClose}>
       <Modal.Header closeButton>
-        <Modal.Title>Edit Client</Modal.Title>
+        <Modal.Title>Editar Cliente</Modal.Title>
       </Modal.Header>
       <Modal.Body>
         <form onSubmit={handleSave}>

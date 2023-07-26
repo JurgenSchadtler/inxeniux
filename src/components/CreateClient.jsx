@@ -286,7 +286,7 @@ function CreateClient() {
             />{" "}
             Científicos
           </label>
-          <button type="submit">Create Client</button>
+          <button type="submit">Crear Cliente</button>
         </form>
       </div>
     </>
